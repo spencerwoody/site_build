@@ -1,7 +1,7 @@
 ---
-title: "Spatial logit model"
-author: "Spencer Woody"
-date: 2015-01-26
+title: "Hello R Markdown"
+author: "Frida Gomam"
+date: 2015-07-23T21:13:14-05:00
 categories: ["R"]
 tags: ["R Markdown", "plot", "regression"]
 ---
@@ -17,42 +17,6 @@ This is an R Markdown document. Markdown is a simple formatting syntax for autho
 You can embed an R code chunk like this:
 
 ```{r cars}
-
-library(dplyr)
-library(ggmap)
-library(ggplot2)
-
-nola <- read.csv("data/HGP/nola.csv")
-
-# Set bounds of map
-minlat <- min(nola$lat)
-minlon <- min(nola$lon)
-maxlat <- max(nola$lat)
-maxlon <- max(nola$lon)
-
-# Create background for map image
-NOLAmap <- get_map(
-    location = c(minlon, minlat, maxlon, maxlat), 
-    zoom = 13, 
-    col = "bw")
-
-storemap <- ggmap(NOLAmap) + 
-	geom_point(
-		data = nola, 
-        aes(x = long, y = lat, col = factor(street)), 
-        alpha = 0.5) +
-    scale_colour_brewer(
-        name = "",
-        labels = c("St Charles Ave", "S Carrollton Ave", "St Claude Ave"),
-        palette = "Set1") +
-	ggtitle("Location of all stores in dataset") +
-    theme(
-        plot.title = element_text(hjust = 0.5),
-        legend.position="bottom")
-
-
-  
-
 summary(cars)
 fit <- lm(dist ~ speed, data = cars)
 fit
@@ -70,8 +34,4 @@ pie(
   col = c('#0292D8', '#F7EA39', '#C4B632'),
   init.angle = -50, border = NA
 )
-```
-
-```{r storemap, fig.cap='All store locations in dataset.', tidy=FALSE}
-storemap
 ```

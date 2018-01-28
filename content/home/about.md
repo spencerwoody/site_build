@@ -20,13 +20,18 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "BS in Economics and Statistical Science"
-  institution = "Duke University"
+  institution = "Duke Universtiy"
   year = 2015
+
+
  
 +++
 
 # Biography
 
-Hi, I'm Spencer Woody. I am a second year PhD student in statistics at the University of Texas at Austin, currently working with Professor James Scott. My current research interests are in multiple testing, post-selection inference under sparsity, and spatial smoothing. 
+Hi, I’m Spencer Woody. I am a second year PhD student in statistics at the University of Texas at Austin, currently working with Professor James Scott. My current research interests are in multiple testing, post-selection inference under sparsity, and spatial smoothing.
 
-I also serve as a research assistant in the lab of Dr. Livia Eberlin in the Department of Chemistry, where we use metabolomic mass spectrometry data for cancer detection in applications such as surgical margin assessment and fine needle aspirations of the thyroid.  
+I also serve as a research assistant in the lab of Dr. Livia Eberlin in the Department of Chemistry, where we use metabolomic mass spectrometry data for cancer detection in applications such as surgical margin assessment and fine needle aspirations of the thyroid.
+
+:computer: :coffee: :bulb:
+
