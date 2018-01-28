@@ -41,7 +41,7 @@ storemap <- ggmap(NOLAmap) +
                                  "St Claude Ave"),
                       palette = "Set1") +
   labs(title = "Location of all stores in dataset") + 
-  theme(plot.title = element_text(hjust = 0.5), legend.position="bottom")
+  theme(legend.position="bottom")
 ```
 
 

@@ -269,6 +269,11 @@ defaultContentLanguageInSubdir = false
   name = "Projects"
   url = "#projects"
   weight = 5
+  
+[[menu.main]]
+name = "Resources"
+url = "https://spencerwoody.github.io/post/-my-favorite-things/"
+weight = 5
 
 [[menu.main]]
   name = "Contact"
