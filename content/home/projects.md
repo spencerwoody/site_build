@@ -33,12 +33,16 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
-
+  name = "Nonparametrics"
+  tag = ".nonparametrics"
+  
 [[filter]]
-  name = "Other"
-  tag = ".demo"
+  name = "'Omics"
+  tag = ".omics"
+
+#[[filter]]
+#  name = "Other"
+#  tag = ".demo"
 
 +++
 

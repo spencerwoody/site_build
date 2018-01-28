@@ -16,7 +16,7 @@ summary = "Hierarchical Gaussian process regression with application to drosophi
 tags = ["nonparametrics", "omics"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://spencerwoody.github.io/HGP/"
+external_link = "https://spencerwoody.github.io/post/hgp/"
 
 # Does the project detail page use math formatting?
 math = false

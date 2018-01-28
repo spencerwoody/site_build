@@ -10,8 +10,8 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Multiple testing",
-    "Post-selection inference",
+    "Bayesian statistics",
+    "Post-selection inference in multiple testing",
     "Spatial statistics",
     "High-throughput bioinformatics",
     "Medical research methodology"
@@ -29,7 +29,7 @@ weight = 5
 
 # Biography
 
-Hi, I’m Spencer Woody. I am a second year PhD student in statistics at the University of Texas at Austin, currently working with Professor James Scott. My current research interests are in multiple testing, post-selection inference under sparsity, and spatial smoothing.
+Hi, I’m Spencer Woody. I am a second year PhD student in statistics at the University of Texas at Austin, currently working with Professor James Scott. My current research interests are in spatial smoothing and post-selection inference in multiple testing scenarios. 
 
 I also serve as a research assistant in the lab of Dr. Livia Eberlin in the Department of Chemistry, where we use metabolomic mass spectrometry data for cancer detection in applications such as surgical margin assessment and fine needle aspirations of the thyroid.
 

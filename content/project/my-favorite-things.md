@@ -16,7 +16,7 @@ summary = "A continually updated list of learning resources, R packages, blogs, 
 tags = ["rstats", "learning-resources", "academic"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://www.youtube.com/watch?v=YHVarQbNAwU"
+external_link = "https://spencerwoody.github.io/post/-my-favorite-things/"
 
 # Does the project detail page use math formatting?
 math = false
