@@ -13,22 +13,41 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 ## Introduction
 
-Hierarchical Gaussian process regression with application to drosophila microarray data, implemented in R and visualized using `ggplot2`
+Hierarchical Gaussian process regression with application to drosophila microarray data, implemented in R and visualized using `ggplot2`. 
 
-```{r data}
+Based on a paper by [Hensman, Lawrence, and Rattray](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-252).
+
+## Read in the data
+
+```{r data, message=F, warning=F}
+library(dplyr)
+library(forcats)
+library(ggplot2)
+theme_set(theme_bw(base_size = 12))
+
 drosophila <- read.csv("data/drosophila.csv")
+
+drosophila <- drosophila %>%
+  mutate(gene = fct_inorder(gene))
 ```
 
-# Including Plots
+# Plot the data
 
-You can also embed plots. See Figure \@ref(fig:pie) for example:
+```{r, make_plot}
+allgenes <- drosophila %>% 
+    ggplot(aes(time, log2exp)) +
+    geom_point(aes(col = group, pch = replicate)) +
+    facet_wrap(~gene) +
+    labs(title = "Expression Profiles for all Genes",
+         x = "Time",
+         y = "log2-Normalized gene expression") + 
+    scale_colour_brewer(palette = "Dark2") +
+    scale_x_continuous(breaks = seq(0, 12, by = 2)) 
+```
 
-```{r pie, fig.cap='A fancy pie chart.', tidy=FALSE}
-par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c('Sky', 'Sunny side of pyramid', 'Shady side of pyramid'),
-  col = c('#0292D8', '#F7EA39', '#C4B632'),
-  init.angle = -50, border = NA
-)
+
+You can also embed plots. See Figure \@ref(fig:facet1) for example:
+
+```{r facet1, fig.cap='faceted plot of all genes', tidy=FALSE, echo = F}
+allgenes
 ```
