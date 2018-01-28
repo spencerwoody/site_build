@@ -18,6 +18,8 @@ math = true
 
 Basically a site where I collect a bunch of links I've found useful over the past in my work in statistics / data science. "If you have an idea, write it down."
 
+To do: add style guide... emoji cheatsheet maybe header image too?
+
 ## Online learning resources 
 
 ### The holy trinity of books written by Hadley Wickham
@@ -55,6 +57,7 @@ Man, I *really* need to build this list...
 
 - [`dplyr::progress_estimated`](http://dplyr.tidyverse.org/reference/progress_estimated.html)
 - [Progress bars in `Rcpp`](http://gallery.rcpp.org/articles/using-rcppprogress/)
+- [Use emojis for GitHub](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 
 ## For fun
 ["My Favorite Things" by John Coltrane](https://www.youtube.com/watch?v=YHVarQbNAwU)
