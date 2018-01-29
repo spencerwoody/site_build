@@ -33,5 +33,5 @@ Hi, I’m Spencer Woody. I am a second year PhD student in statistics at the Uni
 
 I also serve as a research assistant in the lab of Dr. Livia Eberlin in the Department of Chemistry, where we use metabolomic mass spectrometry data for cancer detection in applications such as surgical margin assessment and fine needle aspirations of the thyroid.
 
-:smiley: :computer: :coffee: :books: :bulb: 
+## :thinking::computer::coffee::book::bulb: 
 
