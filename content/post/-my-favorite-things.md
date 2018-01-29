@@ -16,7 +16,7 @@ summary = "A continually updated list of learning resources, R packages, blogs, 
 math = true
 +++
 
-This is a collection of sites and resources I've found useful during my past work in statistics and data science. Because bookmark folders are so passé.
+This is a collection of sites and resources I've found useful during my past work in statistics and data science. Bookmark folders are so passé.
 
 ## Online learning resources :earth_africa::bulb:
 
@@ -63,7 +63,7 @@ I recommend to every R user, no matter their skill level, to take the plunge int
 ### Data science
 - [#rstats on twitter](https://twitter.com/search?q=%23rstats&src=typd)
 - [Hadley Wickham's twitter](https://twitter.com/hadleywickham)
-- [David Robinson's blog'](http://varianceexplained.org)
+- [David Robinson's blog](http://varianceexplained.org)
 
 ### Statistics
 - [Andrew Gelman's blog](http://andrewgelman.com)
