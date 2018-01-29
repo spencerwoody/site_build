@@ -7,6 +7,8 @@ tags: []
 summary: Hierarchical Gaussian process regression with application to drosophila microarray data
 ---
 
+**This project is currently a WIP (work in progress)**
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(collapse = TRUE)
 ```

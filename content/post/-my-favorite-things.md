@@ -20,7 +20,7 @@ Basically a collection of links I've found useful during my past work in statist
 
 ## Online learning resources 
 
-### The holy trinity of books written by Hadley Wickham
+### Books written by Hadley Wickham 🇳🇿
 - [R for Data Science](http://r4ds.had.co.nz)
 - [R Packages](http://r-pkgs.had.co.nz)
 - [Advanced R](http://adv-r.had.co.nz)
@@ -38,10 +38,11 @@ I recommend to every R user, no matter their skill level, to take the plunge int
 - [R for Data Science, Chapter 3](http://r4ds.had.co.nz/data-visualisation.html): A good primer for begineers
 - [Top 50 ggplot2 Visualizations](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html): A great reference for producing a wide variety of data visualizations
 
-### Visualization theory
+### Visualization theory :bar_chart: 🤔
 - [Data Visualization: A practical introduction, by Kieran Healy](http://socviz.co): A good walkthrough of the "why" behind the grammar of graphics, instead of just the "how" (I still haven't come across a good explanation of `ggplot2`'s default use of a grey background, however...)
 
-### Colors in R
+### Colors in R :heart: :yellow_heart: :green_heart: :blue_heart: :purple_heart:
+- [R Colors](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf): An exhaustive list of the default named colors in R 🎨
 - [`viridis` package](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html): "Use the color scales in this package to make plots that are pretty, better represent your data, easier to read by those with colorblindness, and print well in grey scale"
 
 ## Reference for `Rcpp` and `RcppArmadillo` <a name="rcpp"></a>
