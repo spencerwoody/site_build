@@ -32,7 +32,7 @@ Introduction Here I present a Bayesian spatial logit model for predicting busine
       <description>This project is currently a WIP (work in progress)
 Introduction Hierarchical Gaussian process regression with application to drosophila microarray data, implemented in R and visualized using ggplot2.
 Based on a paper by Hensman, Lawrence, and Rattray.
- Read in the data library(dplyr) library(forcats) library(ggplot2) theme_set(theme_bw(base_size = 12)) drosophila &amp;lt;- read.csv(&amp;quot;data/drosophila.csv&amp;quot;) drosophila &amp;lt;- drosophila %&amp;gt;% mutate(gene = fct_inorder(gene))  Plot the data allgenes &amp;lt;- drosophila %&amp;gt;% ggplot(aes(time, log2exp)) + geom_point(aes(col = group, pch = replicate)) + facet_wrap(~gene) + labs(title = &amp;quot;Expression Profiles for all Genes&amp;quot;, x = &amp;quot;Time&amp;quot;, y = &amp;quot;log2-Normalized gene expression&amp;quot;) + scale_colour_brewer(palette = &amp;quot;Dark2&amp;quot;) + scale_x_continuous(breaks = seq(0, 12, by = 2))  You can also embed plots.</description>
+Let \(i\) be the subscript for clusters of genes, \(n\) in the subscript genes, \(r\) is the subscript for replicates. If gene \(n\) belongs to cluster \(i\) we denote this with \(n \in c_i,\) and \(N_i = \# \left\{ n \in c_i \right\}.</description>
     </item>
     
     <item>
