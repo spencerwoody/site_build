@@ -5,6 +5,9 @@ date: 2018-01-30
 categories: ["Project", "R", "wip"]
 tags: []
 summary: Hierarchical Gaussian process regression with application to drosophila microarray data
+output:
+  blogdown::html_page:
+    toc: true
 ---
 
 **This project is currently a WIP (work in progress)**
@@ -15,7 +18,7 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 # Introduction
 
-Hierarchical Gaussian process regression with application to drosophila microarray data, implemented in R and visualized using `ggplot2`. 
+Hierarchical Gaussian process regression with application to drosophila microarray data, implemented in R and visualized using `ggplot2`.  
 
 Based on a paper by [Hensman, Lawrence, and Rattray](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-252).
 
@@ -26,8 +29,9 @@ We model gene expression levels as a hierarchical Gaussian process,
 $$ 	\begin{aligned} h_i(t) &\sim \text{GP}(\mathbf{0}, k_h(t, t')) \\
 	g_n(t) &\sim \text{GP}(h_i(t), k_g(t, t')) \text{ for } n\in c_i \\
 	f_{nr}(t) &\sim \text{GP}(g_n(t), k_f(t, t')), \end{aligned}  $$
-	
-	for some covariance functions $k_h(t, t')$, $k_g(t, t')$, and $k_f(t, t')$. 
+
+
+for some covariance functions $k_h(t, t')$, $k_g(t, t')$, and $k_f(t, t')$. 
 
 Our data consist of a small subset of from a time-course DNA microarray experiment with *Drosophila melanogaster*. The gene expression levels of 14 genes are measured over time. 
 

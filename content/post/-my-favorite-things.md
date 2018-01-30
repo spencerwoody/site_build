@@ -58,6 +58,11 @@ I recommend to every R user, no matter their skill level, to take the plunge int
 - [`Rcpp` Quick reference guide](http://dirk.eddelbuettel.com/code/rcpp/Rcpp-quickref.pdf)
 - [`RcppArmadillo` examples from Dirk Eddelbuettel (slideshow)](http://dirk.eddelbuettel.com/papers/rcpp_ku_nov2013-part2.pdf)
 
+## Reference for LaTeX :scroll:
+
+- [Tutorial on making slideshows with beamer](https://www.uncg.edu/cmp/reu/presentations/Charles%20Batts%20-%20Beamer%20Tutorial.pdf) with pauses between slides!
+- [Using emoji in LaTeX.](https://github.com/alecjacobson/coloremoji.sty) You know you want to :smirk:
+
 ## Blogs and feeds I follow :memo:
 
 ### Data science
