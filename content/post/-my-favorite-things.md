@@ -61,7 +61,6 @@ I recommend to every R user, no matter their skill level, to take the plunge int
 ## Reference for LaTeX :scroll:
 
 - [Tutorial on making slideshows with beamer](https://www.uncg.edu/cmp/reu/presentations/Charles%20Batts%20-%20Beamer%20Tutorial.pdf) with pauses between slides!
-- [Using emoji in LaTeX.](https://github.com/alecjacobson/coloremoji.sty) You know you want to :smirk:
 
 ## Blogs and feeds I follow :memo:
 
@@ -83,7 +82,16 @@ I recommend to every R user, no matter their skill level, to take the plunge int
   - [Base R](https://stat.ethz.ch/R-manual/R-devel/library/utils/html/txtProgressBar.html)
   - [`dplyr::progress_estimated()`](http://dplyr.tidyverse.org/reference/progress_estimated.html)
   - [Progress bars in `Rcpp`](http://gallery.rcpp.org/articles/using-rcppprogress/)
-- [Use emojis for GitHub](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
+
+
+## All about emoji :heart_eyes:
+
+Anyone who knows me knows how much I :heart: emoji :relaxed:
+
+- [Emojipedia](https://emojipedia.org): Check how your selected emoji will look cross-platform, and even look at how particular emoji have evolved over time
+- [Use emojis for GitHub (on several other online platforms)](https://www.webpagefx.com/tools/emoji-cheat-sheet/): Sadly, not completely up to date
+- [Using emoji in LaTeX](https://github.com/alecjacobson/coloremoji.sty)
+- [Installing color emoji in Linux](https://github.com/eosrei/twemoji-color-font): Installs [twemoji](https://emojipedia.org/twitter/), from the Twitter platform (which happens to be my favorite set of emoji)
 
 ## For fun
 ["My Favorite Things" by John Coltrane](https://www.youtube.com/watch?v=YHVarQbNAwU)
