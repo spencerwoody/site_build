@@ -75,13 +75,14 @@ I recommend to every R user, no matter their skill level, to take the plunge int
 
 ## Miscellaneous
 
-- R styleguides. Yes, you should use one, just like you should always make your bed every morning.  
+- R styleguides
   - [Google's R styleguide](https://google.github.io/styleguide/Rguide.xml): Good enough for most cases.
   - [The tidyverse style guide](http://style.tidyverse.org): Based on Google's styleguide, this goes a bit more in depth. 
 - Progress bars
   - [Base R](https://stat.ethz.ch/R-manual/R-devel/library/utils/html/txtProgressBar.html)
   - [`dplyr::progress_estimated()`](http://dplyr.tidyverse.org/reference/progress_estimated.html)
   - [Progress bars in `Rcpp`](http://gallery.rcpp.org/articles/using-rcppprogress/)
+- [Install an R library from source](https://stackoverflow.com/questions/1474081/how-do-i-install-an-r-package-from-source)
 
 
 ## All about emoji :heart_eyes:
