@@ -61,6 +61,8 @@ I recommend to every R user, no matter their skill level, to take the plunge int
 ## Reference for LaTeX :scroll:
 
 - [Tutorial on making slideshows with beamer](https://www.uncg.edu/cmp/reu/presentations/Charles%20Batts%20-%20Beamer%20Tutorial.pdf) with pauses between slides!
+- [Online LaTeX equation editor](https://www.codecogs.com/latex/eqneditor.php) with abilitiy to download a bitmap or vector graphic of your equation. 
+- [Online LaTeX table generator](https://www.tablesgenerator.com): supports booktabs-style tables too
 
 ## Blogs and feeds I follow :memo:
 
