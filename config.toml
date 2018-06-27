@@ -17,8 +17,8 @@ footnotereturnlinkcontents = "↩"
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "Papers"
-    url = "/papers/"
+    name = "Talks"
+    url = "/talks/"
     weight = 2
 [[menu.main]]
     name = "Software"
@@ -26,7 +26,7 @@ footnotereturnlinkcontents = "↩"
     weight = 3
 [[menu.main]]
     name = "CV"
-    url = "https://github.com/spencerwoody/profesh/blob/master/short-CV/short_cv.pdf"
+    url = "https://drive.google.com/file/d/1kMgJ1TIJMQGTQd2e-ulaJBBdo_gLT5S8/view?usp=sharing"
     weight = 4
 [[menu.main]]
     name = "Contact"
@@ -34,4 +34,4 @@ footnotereturnlinkcontents = "↩"
 
 [params]
     description = "Spencer Woody - PhD Student, Statistics"
-    footer = "&copy; [Spencer Woody](https://spencerwoody.github.io) 2018 | [Github](https://github.com/spencerwoody) | [Twitter](https://twitter.com/spencerwoody)"
+    footer = "&copy; [Spencer Woody](https://spencerwoody.github.io) 2018 | [Github](https://github.com/spencerwoody)"
