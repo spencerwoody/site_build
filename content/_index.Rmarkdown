@@ -2,17 +2,15 @@
 title: Home
 ---
 
-[<img src="portrait.jpg" style="max-width:25%;min-width:40px;float:left;" alt="Github repo" hspace="10" />](https://github.com/yihui/hugo-xmin)
+[<img src="portrait.jpg" style="max-width:25%;min-width:40px;float:center;" alt="Github repo" hspace="10" />](https://github.com/yihui/hugo-xmin)
 
-# Spencer Woody
+<center> <h1>Spencer Woody</h1> </center>
 
-## PhD Student, Statistics
+<center> <h2>Statistics PhD Student</h2> </center>
 
 Hi, I’m Spencer Woody. I am a second year PhD student in statistics at the University of Texas at Austin, currently working with Professor James Scott. My current research interests are in spatial smoothing and post-selection inference in multiple testing scenarios.
 
 I also serve as a research assistant in the lab of Dr. Livia Eberlin in the Department of Chemistry, where we use metabolomic mass spectrometry data for cancer detection in applications such as surgical margin assessment and fine needle aspirations of the thyroid.
-
-You can see my [posts](/post/), projects, and CV.
 
 ### Research Interests
 
