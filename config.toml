@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "Spencer Woody"
-theme = "hugo-xmin"
+theme = "spencer-hugo-xmin"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -24,10 +24,10 @@ footnotereturnlinkcontents = "↩"
     name = "Software"
     url = "/software/"
     weight = 3
-[[menu.main]]
-    name = "CV"
-    url = "https://drive.google.com/file/d/1kMgJ1TIJMQGTQd2e-ulaJBBdo_gLT5S8/view?usp=sharing"
-    weight = 4
+# [[menu.main]]
+#     name = "CV"
+#     url = "https://spencerwoody.github.io/files/Woody-CV.pdf"
+#     weight = 4
 [[menu.main]]
     name = "Contact"
     url = "/#Contact"

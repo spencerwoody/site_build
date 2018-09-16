@@ -3,27 +3,28 @@ title: Home
 ---
 
 [<img src="portrait.jpg"
-style="max-width:25%;min-width:40px;float:center;" alt="Github repo"
-hspace="10" />](https://github.com/yihui/hugo-xmin)
+style="max-width:35%;min-width:75px;float:center;" alt="Github repo"
+hspace="10" />](https://spencerwoody.github.io)
 
 <center> <h1>Spencer Woody</h1> </center>
 
 <center> <h2>Statistics PhD Student</h2> </center>
 
 Hi, I’m Spencer Woody. I am a third year PhD student in statistics at
-the University of Texas at Austin, advised by Professor James
-Scott. My main research interests are in post-selection inference as
-applied to multiple testing, model selection, and spatial hotspot
-detection scenarios. I also work as a research assistant for Professor
-Carlos Carvahlo, with whom I am working on problems in causal
-inference and posterior summarization. 
+the University of Texas at Austin, advised by [James Scott][james],
+within the [Department of Statistics and Data Sciences][sds]. My main
+research interests are in post-selection inference as applied to
+multiple testing, model selection, and spatial hotspot detection
+scenarios. I also work as a research assistant for [Carlos
+Carvahlo][carlos], with whom I am working on problems in causal
+inference and posterior summarization.
 
 From 2017-2018 I worked as an statistician in the laboratory of
-Dr. Livia Eberlin at the UT Department of Chemisty. The Eberlin Lab
-apply ambient mass spectrometry techniques to tissue diagnosis,
-disease biomarker detection, and other clinical settings. I have also
-worked as a statistical consultant for the Department of Women's
-Health at the Dell Medical School.
+Dr. Livia Eberlin at the UT Department of Chemisty. The [Eberlin
+Lab][eberlin] apply ambient mass spectrometry techniques to tissue
+diagnosis, disease biomarker detection, and other clinical settings. I
+have also worked as a statistical consultant for the [Department of
+Women's Health][womens-health] at the Dell Medical School.
 
 ### Research Interests
 
@@ -40,13 +41,21 @@ Health at the Dell Medical School.
 - Duke University (2011-2015)
 	- BS in Economics and Statistical Science
 
+
 ### Contact
 
 `spencer.woody@utexas.edu`
 
-GDC 7.416A  
+[GDC 7.416A][gdc]  
 2317 Speedway D9800  
 Austin, TX 78712  
 USA
 
 ### Posts
+
+[sds]: https://stat.utexas.edu/
+[james]: https://jgscott.github.io/
+[carlos]: https://faculty.mccombs.utexas.edu/carlos.carvalho/
+[eberlin]: https://eberlin.cm.utexas.edu/
+[womens-health]: https://dellmed.utexas.edu/units/department-of-womens-health
+[gdc]: https://goo.gl/maps/4pS7Wc8DBJp
