@@ -13,7 +13,7 @@ hspace="10" />](https://spencerwoody.github.io)
 Hi, I’m Spencer Woody. I am a third year PhD student in statistics at
 the University of Texas at Austin, within the [Department of
 Statistics and Data Sciences][sds]. My advisor is Professor [James
-Scott][james], . My main research interests are in post-selection
+Scott][james]. My main research interests are in post-selection
 inference as applied to multiple testing, model selection, and spatial
 hotspot detection scenarios. I also work as a research assistant for
 Professor [Carlos Carvahlo][carlos], working on problems in
