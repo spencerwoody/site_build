@@ -17,13 +17,17 @@ footnotereturnlinkcontents = "↩"
     url = "/"
     weight = 1
 [[menu.main]]
+    name = "Papers"
+    url = "/papers/"
+    weight = 2
+[[menu.main]]
     name = "Talks"
     url = "/talks/"
-    weight = 2
+    weight = 3
 [[menu.main]]
     name = "Software"
     url = "/software/"
-    weight = 3
+    weight = 4
 # [[menu.main]]
 #     name = "CV"
 #     url = "https://spencerwoody.github.io/files/Woody-CV.pdf"
