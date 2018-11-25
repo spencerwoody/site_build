@@ -10,6 +10,10 @@ hspace="10" />](https://spencerwoody.github.io)
 
 <center> <h2>Statistics PhD Student</h2> </center>
 
+<center> <h2>University of Texas at Austin</h2> </center>
+
+<!-- <center> <h2>`spencer.woody@utexas.edu`</h2> </center> -->
+
 Hi, I’m Spencer Woody. I am a third year PhD student in statistics at
 the University of Texas at Austin, within the [Department of
 Statistics and Data Sciences][sds]. My advisor is Professor [James
