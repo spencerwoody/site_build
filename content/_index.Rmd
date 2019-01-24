@@ -3,7 +3,7 @@ title: Home
 ---
 
 [<img src="portrait.jpg"
-style="max-width:32%;min-width:75px;float:center;" alt="Github repo"
+style="max-width:40%;min-width:100px;float:center;" alt="Github repo"
 hspace="10" />](https://spencerwoody.github.io)
 
 <center> <h1>Spencer Woody</h1> </center>
@@ -14,14 +14,14 @@ hspace="10" />](https://spencerwoody.github.io)
 
 <!-- <center> <h2>`spencer.woody@utexas.edu`</h2> </center> -->
 
-Hi, I’m Spencer Woody. I am a third year PhD student in statistics at
-the University of Texas at Austin, within the [Department of
-Statistics and Data Sciences][sds]. My advisor is Professor [James
-Scott][james]. My main research interests are in post-selection
-inference as applied to multiple testing, model selection, and spatial
-hotspot detection scenarios. I also work as a research assistant for
-Professor [Carlos Carvahlo][carlos], working on problems in
-causal inference and posterior summarization.
+I am a third year PhD student in statistics at the University of Texas
+at Austin, within the [Department of Statistics and Data
+Sciences][sds]. My advisor is Professor [James Scott][james]. My main
+research interests are in post-selection inference as applied to
+multiple testing, model selection, and spatial hotspot detection
+scenarios. I also work as a research assistant for Professor [Carlos
+Carvahlo][carlos], working on problems in causal inference and
+posterior summarization.
 
 From 2017 to 2018 I worked as a statistician in the laboratory of
 Dr. Livia Eberlin at the UT Department of Chemisty. The [Eberlin
@@ -40,9 +40,9 @@ Women's Health][womens-health] at the Dell Medical School.
 
 ### Education
 
-- The University of Texas at Austin (2016-present)
+- The University of Texas at Austin (2016 -- present)
 	- PhD, Statistics
-- Duke University (2011-2015)
+- Duke University (2011 -- 2015)
 	- BS in Economics and Statistical Science
 
 
