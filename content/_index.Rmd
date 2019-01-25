@@ -3,7 +3,7 @@ title: Home
 ---
 
 [<img src="portrait.jpg"
-style="max-width:40%;min-width:100px;float:center;" alt="Github repo"
+style="max-width:35%;min-width:100px;float:center;" alt="Github repo"
 hspace="10" />](https://spencerwoody.github.io)
 
 <center> <h1>Spencer Woody</h1> </center>
