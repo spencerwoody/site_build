@@ -2,6 +2,11 @@
 title: Talks
 ---
 
+- 2019-05-22  
+**ACIC 2019, McGill University, Montreal, Canada**  
+[Posterior Summarization for the Causal Linear Model
+(poster)](/files/woody-poster-acic.pdf)  
+
 - 2018-11-13  
 **PhD oral examination, University of Texas at Austin**  
 [Bayes-optimal post-selection inference; posterior summarization](/files/Woody-oralexam.pdf)  
