@@ -15,8 +15,8 @@ hspace="10" />](https://spencerwoody.github.io)
 
 <!-- <center> <h2>`spencer.woody@utexas.edu`</h2> </center> -->
 
-I am a PhD candidate in statistics at the University of Texas at
-Austin, within the [Department of Statistics and Data
+I am a third year PhD candidate in statistics at the University of
+Texas at Austin, within the [Department of Statistics and Data
 Sciences][sds]. I am co-supervisored by Professors [James
 Scott][james] and [Jared Murray][jared]. My main research interests
 are in post-selection inference as applied to multiple testing, model
@@ -44,7 +44,7 @@ Women's Health][womens-health] at the Dell Medical School.
 - The University of Texas at Austin (2016 -- present)
 	- PhD, Statistics
 - Duke University (2011 -- 2015)
-	- BS in Economics and Statistical Science
+	- BS, Economics and Statistical Science
 
 
 ### Contact
