@@ -17,10 +17,10 @@ hspace="10" />](https://spencerwoody.github.io)
 
 I am a third year PhD candidate in statistics at the University of
 Texas at Austin, within the [Department of Statistics and Data
-Sciences][sds]. I am co-supervisored by Professors [James
-Scott][james] and [Jared Murray][jared]. My main research interests
-are in post-selection inference as applied to multiple testing, model
-selection, and spatial hotspot detection scenarios. I also work as a
+Sciences][sds]. I am co-supervised by Professors [James Scott][james]
+and [Jared Murray][jared]. My main research interests are in
+post-selection inference as applied to multiple testing, model
+selection, and heterogeneous treatment effects. I also work as a
 research assistant for Professor [Carlos Carvahlo][carlos], working on
 problems in causal inference and posterior summarization.
 
