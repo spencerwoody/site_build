@@ -15,7 +15,7 @@ hspace="10" />](https://spencerwoody.github.io)
 
 <!-- <center> <h2>`spencer.woody@utexas.edu`</h2> </center> -->
 
-I am a third year PhD candidate in statistics at the University of
+I am a fourth-year PhD candidate in statistics at the University of
 Texas at Austin, within the [Department of Statistics and Data
 Sciences][sds]. I am co-supervised by Professors [James Scott][james]
 and [Jared Murray][jared]. My main research interests are in
@@ -51,7 +51,7 @@ Women's Health][womens-health] at the Dell Medical School.
 
 `spencer.woody@utexas.edu`
 
-[GDC 7.416A][gdc]  
+[GDC 6.818C][gdc]  
 2317 Speedway D9800  
 Austin, TX 78712  
 USA
