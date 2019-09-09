@@ -10,7 +10,7 @@ title: Papers
 
 - **S. Woody**, C.M. Carvalho and J.S. Murray. "Model interpretation
   through lower-dimensional posterior summarization." 2019.  [[arXiv
-  preprint][model projections]]. 2019. 
+  preprint][model projections]]. 
 
 - **S. Woody** and J.G. Scott. "Optimal post-selection inference for
   sparse signals: a nonparametric empirical-Bayes approach." 2018.  [[arXiv
