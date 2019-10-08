@@ -2,6 +2,11 @@
 title: Papers
 ---
 
+- C.L. Feider, **S. Woody**, S. Ledet, J. Zhang, K. Sebastian,
+  M.T. Breen, and L.S. Eberlin.  "Molecular Imaging of Endometriosis
+  Tissues using Desorption Electrospray Ionization Mass Spectrometry."
+  *Scientific Reports* (in press). 2019.
+
 - **S. Woody**, N. Ghaffari, and L. Hund.  "Bayesian Model Calibration
   for Extrapolative Prediction via Gibbs Posteriors." 2019.  [[arXiv
   preprint][UQ paper]].
