@@ -10,7 +10,7 @@ title: Papers
   C. Almendariz, M. Lin, A. Engelsman, S.B. Sidhu, R.J. Tibshirani,
   J. Suliburk, and L.S. Eberlin.  "Preoperative Metabolic
   Classification of Thyroid Nodules using Mass Spectrometry Imaging of
-  Fine Needle Aspiration Biopsies." *PNAS* (in press). 2019. 
+  Fine Needle Aspiration Biopsies." *PNAS*. 2019. [[journal][PNAS thyroid]]
 
 - C. Carvalho, A. Feller, J. Murray, **S. Woody**, and
   D. Yeager. "Assessing Treatment Effect Variation in Observational
@@ -31,3 +31,4 @@ title: Papers
 [obs-studies-arXiv]: https://arxiv.org/abs/1907.07592
 [model projections]: https://arxiv.org/abs/1905.07103
 [saFAB paper]: https://arxiv.org/abs/1810.11042
+[PNAS thyroid]: https://doi.org/10.1073/pnas.1911333116
