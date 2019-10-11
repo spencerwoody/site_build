@@ -2,6 +2,10 @@
 title: Talks
 ---
 
+- 2019-10-11  
+**SDS Seminar, University of Texas at Austin**  
+[Model Interpretation through Posterior Summarization](/files/spencer-sds-seminar-fall2019.pdf)  
+
 - 2019-05-22  
 **ACIC 2019, McGill University, Montreal, Canada**  
 [Posterior Summarization for the Causal Linear Model
