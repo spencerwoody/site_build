@@ -5,7 +5,7 @@ title: Papers
 - C.L. Feider, **S. Woody**, S. Ledet, J. Zhang, K. Sebastian,
   M.T. Breen, and L.S. Eberlin.  "Molecular Imaging of Endometriosis
   Tissues using Desorption Electrospray Ionization Mass Spectrometry."
-  *Scientific Reports* (in press). 2019.
+  *Scientific Reports*. 2019. [[journal][endo]].
 
 - **S. Woody**, N. Ghaffari, and L. Hund.  "Bayesian Model Calibration
   for Extrapolative Prediction via Gibbs Posteriors." 2019.  [[arXiv
@@ -31,6 +31,7 @@ title: Papers
   sparse signals: a nonparametric empirical-Bayes approach." 2018.  [[arXiv
   preprint][saFAB paper]]. 
 
+[endo]: https://www.nature.com/articles/s41598-019-51853-y
 [UQ paper]: https://arxiv.org/abs/1909.05428
 [obs-studies-journal]: https://obsstudies.org/277-2/
 [obs-studies-arXiv]: https://arxiv.org/abs/1907.07592
