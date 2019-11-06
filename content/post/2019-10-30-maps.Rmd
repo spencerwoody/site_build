@@ -1,5 +1,9 @@
 ---
 title: "Making nice maps"
+author: "Spencer Woody"
+output:
+  html_document:
+    df_print: paged
 date: '2019-10-30'
 ---
 
@@ -7,8 +11,16 @@ date: '2019-10-30'
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+# Structure of workflow
 
-```{r, eval=TRUE, warning=FALSE, results="hide"}
+1. Get ACS study via [`tidycensus`], which gives `sf` spatial objects, each with data annotation
+2. Get geographic layers via [`rmapzen`]
+3. Convert geographic layes to `sf` objects using the [`sf`] package
+4. Use [`ggplot2`] for vizualization. 
+
+Much of this workflow has been taken from a [post by Dmitri Shkolnik][makingbettermaps].
+
+```{r, eval=TRUE, warning=FALSE, message=FALSE, results= "hide"}
 
 library(sf)
 library(ggplot2)
@@ -30,7 +42,7 @@ library(rmapzen)
 ## Get mapzen API here
 ## https://developers.nextzen.org/
 
-census_api_key("3deb7c3e77d1747cf53071c077e276d05aa31407", install = TRUE, overwrite = TRUE)
+## census_api_key("3deb7c3e77d1747cf53071c077e276d05aa31407", install = TRUE, overwrite = TRUE)
 mz_set_tile_host_nextzen(key = ("hxNDKuWbRgetjkLAf_7MUQ"))
 
 ## Function for getting map tiles. This, and a lot of other stuff is from:
@@ -45,13 +57,16 @@ get_vector_tiles <- function(bbox){
 ###############################################################################
 
 ## Income (ACS column B19013_001) & geometry for whole state
-txstateincome <- get_acs(state = "TX", geography = "state", geometry = TRUE,
-                         variables = "B19013_001")
+# txstateincome <- get_acs(state = "TX", geography = "state", geometry = TRUE,
+#                          variables = "B19013_001")
+
+txstateincome <- invisible(get_acs(state = "TX", geography = "state", geometry = TRUE,
+                         variables = "B19013_001"))
 
 ## Income for state by county
-txcountyincome <- get_acs(state = "TX", geography = "county", geometry = TRUE,
+txcountyincome <- invisible(get_acs(state = "TX", geography = "county", geometry = TRUE,
                           variables = "B19013_001") %>%
-  arrange(desc(estimate))
+  arrange(desc(estimate)))
 
 ## You can see that we have the shape file (column "geometry") and
 ## income (column "estimate") for each county
@@ -63,7 +78,7 @@ incomeMap <- ggplot(txcountyincome) +
   geom_sf(aes(fill = estimate / 1000), size = 0.1, alpha = 0.8) +
   scale_fill_viridis_c("Median household income ($1000)") +
   theme(legend.position = "top") +
-  guides(fill = guide_colorbar(barwidth = 15, barheight = 0.5))
+  guides(fill = guide_colorbar(barwidth = 10, barheight = 0.5))
 
 incomeMap
 
@@ -98,9 +113,15 @@ incomeMapRoads <- ggplot() +
   geom_sf(data = txcountyincome, aes(fill = estimate / 1000), size = 0.1, alpha = 0.85) +
   theme(legend.position = "top") +
   scale_fill_viridis_c("Median household income ($1000)") +
-  guides(fill = guide_colorbar(barwidth = 15, barheight = 0.5))
+  guides(fill = guide_colorbar(barwidth = 10, barheight = 0.5))
 
 incomeMapRoads
 
 ```
+
+[`tidycensus`]: https://walkerke.github.io/tidycensus/
+[`rmapzen`]: https://tarakc02.github.io/rmapzen/
+[`sf`]: https://r-spatial.github.io/sf/
+[`ggplot2`]: https://ggplot2.tidyverse.org/
+[makingbettermaps]: https://www.dshkol.com/2018/better-maps-with-vector-tiles/
 
