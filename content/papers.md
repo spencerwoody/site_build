@@ -2,6 +2,11 @@
 title: Papers
 ---
 
+- **S. Woody**, C.M. Carvalho and J.S. Murray. "Bayesian inference for
+    treatment effects under nested subsets of controls." 2020.
+    [[arXiv preprint][causal dss]].
+
+
 - C.L. Feider, **S. Woody**, S. Ledet, J. Zhang, K. Sebastian,
   M.T. Breen, and L.S. Eberlin.  "Molecular Imaging of Endometriosis
   Tissues using Desorption Electrospray Ionization Mass Spectrometry."
@@ -36,5 +41,6 @@ title: Papers
 [obs-studies-journal]: https://obsstudies.org/277-2/
 [obs-studies-arXiv]: https://arxiv.org/abs/1907.07592
 [model projections]: https://arxiv.org/abs/1905.07103
+[causal dss]: http://arxiv.org/abs/2001.07256
 [saFAB paper]: https://arxiv.org/abs/1810.11042
 [PNAS thyroid]: https://doi.org/10.1073/pnas.1911333116
