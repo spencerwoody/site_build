@@ -33,11 +33,12 @@ Women's Health][womens-health] at the Dell Medical School.
 ### Research Interests
 
 - Causal inference
-- Effect modification
+- Heterogeneous treatment effects
+- Model interpretation
 - Multiple testing
 - Post-selection inference
 - Uncertainty quantification
-- High-throughput bioinformatics
+<!-- - High-throughput bioinformatics -->
 
 ### Education
 

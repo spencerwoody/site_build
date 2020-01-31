@@ -38,6 +38,6 @@ footnotereturnlinkcontents = "↩"
     weight = 6
 
 
-[params]
-    description = "Spencer Woody - PhD Student, Statistics"
-    footer = "&copy; [Spencer Woody](https://spencerwoody.github.io) 2019 | [Github](https://github.com/spencerwoody)"
+[params] description = "Spencer Woody - PhD Student, Statistics"
+    footer = "&copy; [Spencer Woody](https://spencerwoody.github.io)
+    2020 | [Github](https://github.com/spencerwoody)"
