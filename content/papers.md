@@ -2,6 +2,11 @@
 title: Papers
 ---
 
+- **S. Woody**, O.H.M Padilla and J.G. Scott. "Optimal post-selection inference for
+  sparse signals: a nonparametric empirical-Bayes approach." 2020.  [[arXiv
+  preprint][saFAB paper]]. 
+
+
 - **S. Woody**, C.M. Carvalho and J.S. Murray. "Bayesian inference for
     treatment effects under nested subsets of controls." 2020.
     [[arXiv preprint][causal dss]].
@@ -32,9 +37,6 @@ title: Papers
   through lower-dimensional posterior summarization." 2019.  [[arXiv
   preprint][model projections]]. 
 
-- **S. Woody** and J.G. Scott. "Optimal post-selection inference for
-  sparse signals: a nonparametric empirical-Bayes approach." 2018.  [[arXiv
-  preprint][saFAB paper]]. 
 
 [endo]: https://www.nature.com/articles/s41598-019-51853-y
 [UQ paper]: https://arxiv.org/abs/1909.05428
