@@ -4,6 +4,10 @@ title: Papers
 
 ## Pre-prints and papers under review
 
+- **S. Woody**, C.M. Carvalho and J.S. Murray. "Model interpretation
+  through lower-dimensional posterior summarization." 2020.  [[arXiv
+  preprint][model projections]] [[code][ASTRAL code]].
+
 - **S. Woody**, O.H.M Padilla and J.G. Scott. "Optimal post-selection
   inference for sparse signals: a nonparametric empirical-Bayes
   approach." 2020.  [[arXiv preprint][saFAB paper]] [[code][saFABcode]].
@@ -15,11 +19,7 @@ title: Papers
 - **S. Woody**, N. Ghaffari, and L. Hund.  "Bayesian Model Calibration
   for Extrapolative Prediction via Gibbs Posteriors." 2019.  [[arXiv
   preprint][UQ paper]].
-
-- **S. Woody**, C.M. Carvalho and J.S. Murray. "Model interpretation
-  through lower-dimensional posterior summarization." 2019.  [[arXiv
-  preprint][model projections]] [[code][ASTRAL code]].
-
+  
 
 ## Peer-reviewed articles
 
