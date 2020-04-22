@@ -4,6 +4,12 @@ title: Papers
 
 ## Pre-prints and papers under review
 
+- **Spencer Woody**, Mauricio Garcia Tec, Maytal Dahan, Kelly Gaither,
+  Spencer Fox, Lauren Ancel Meyers, and James G. Scott.  “Projections
+  for first-wave COVID-19 deaths across the US using
+  social-distancing measures derived from mobile phones.”
+  [medRxiv 2020.04.16.20068163](https://doi.org/10.1101/2020.04.16.20068163)
+
 - **S. Woody**, C.M. Carvalho and J.S. Murray. "Model interpretation
   through lower-dimensional posterior summarization." 2020.  [[arXiv
   preprint][model projections]] [[code][ASTRAL code]].
