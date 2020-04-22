@@ -14,6 +14,21 @@ hspace="10" />](https://spencerwoody.github.io)
 
 <!-- <center> <h2>`spencer.woody@utexas.edu`</h2> </center> -->
 
+
+### COVID-19 
+
+I am currently working on a COVID-19 mortality forecast, along with
+Professor Lauren Meyers and the rest of the [UT-Austin COVID-19
+Modeling Consortium][consortium].
+
+- [Mortality forecast for US, 50 US states + DC][covid-19 forecast]
+  (updated daily as new data come in)
+- [Current and past][covid-19-github] and past versions of in .CSV format 
+- [Latest version][latest-covid-19] and [preprint
+  version][preprint-covid-19] of the technical report for our model
+
+### About me
+
 I am a fourth-year PhD candidate in statistics at the University of
 Texas at Austin, within the [Department of Statistics and Data
 Sciences][sds].  I am co-supervised by Professors [James Scott][james]
@@ -29,6 +44,7 @@ Lab][eberlin] apply ambient mass spectrometry techniques to tissue
 diagnosis, disease biomarker detection, and other clinical settings. I
 have also worked as a statistical consultant for the [Department of
 Women's Health][womens-health] at the Dell Medical School.
+
 
 ### Research Interests
 
@@ -66,4 +82,8 @@ USA
 [eberlin]: https://eberlin.cm.utexas.edu/
 [womens-health]: https://dellmed.utexas.edu/units/department-of-womens-health
 [gdc]: https://goo.gl/maps/4pS7Wc8DBJp
-
+[covid-19 forecast]: https://covid-19.tacc.utexas.edu/projections/
+[consortium]: https://covid-19.tacc.utexas.edu/
+[latest-covid-19]: https://covid-19.tacc.utexas.edu/media/filer_public/87/63/87635a46-b060-4b5b-a3a5-1b31ab8e0bc6/ut_covid-19_mortality_forecasting_model_latest.pdf
+[preprint-covid-19]: https://www.medrxiv.org/content/10.1101/2020.04.16.20068163v1
+[covid-19-github]: https://github.com/UT-Covid/USmortality
