@@ -2,6 +2,12 @@
 title: Talks
 ---
 
+- 2020-04-30  
+**SDS 384 Causal Inference Methodology Final Project, University of
+Texas at Austin**  
+[Matching methods for categorical and continuous
+treatments](/files/spencer-sds384causal-project.pdf)
+
 - 2019-10-11  
 **SDS Seminar, University of Texas at Austin**  
 [Model Interpretation through Posterior Summarization](/files/spencer-sds-seminar-fall2019.pdf)  

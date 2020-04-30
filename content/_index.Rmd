@@ -21,9 +21,10 @@ I am currently working on a COVID-19 mortality forecast, along with
 Professor Lauren Meyers and the rest of the [UT-Austin COVID-19
 Modeling Consortium][consortium].
 
-- [Mortality forecast for US, 50 US states + DC][covid-19 forecast]
-  (updated daily as new data come in)
-- [Current and past][covid-19-github] and past versions of in .CSV format 
+- [Mortality forecast for US, 50 US states + DC, and metropolitan
+  areas][covid-19 forecast] (updated daily as new data come in)
+- [Current and past][covid-19-github] versions of our forecasts in
+  .CSV format
 - [Latest version][latest-covid-19] and [preprint
   version][preprint-covid-19] of the technical report for our model
 
