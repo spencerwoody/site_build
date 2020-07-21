@@ -4,6 +4,11 @@ title: Papers
 
 ## Pre-prints and papers under review
 
+- **Spencer Woody**, Carlos M. Carvalho, P. Richard Hahn, and Jared
+  S. Murray. "Estimating heterogeneous effects of continuous exposures
+  using Bayesian tree ensembles: revisiting the impact of abortion
+  rates on crime." [[arXiv preprint][cbcf]].
+
 - **Spencer Woody**, Mauricio Garcia Tec, Maytal Dahan, Kelly Gaither,
   Spencer Fox, Lauren Ancel Meyers, and James G. Scott.  “Projections
   for first-wave COVID-19 deaths across the US using social-distancing
@@ -30,7 +35,6 @@ title: Papers
   Computational and Graphical Statistics_. 2020 (to appear).  [[arXiv
   preprint][model projections]] [[code][ASTRAL code]].
 
-
 - C.L. Feider, **S. Woody**, S. Ledet, J. Zhang, K. Sebastian,
   M.T. Breen, and L.S. Eberlin.  "Molecular Imaging of Endometriosis
   Tissues using Desorption Electrospray Ionization Mass Spectrometry."
@@ -49,6 +53,7 @@ title: Papers
   Studies*. 2019. [[journal][obs-studies-journal]] [[arXiv
   preprint][obs-studies-arXiv]]. 
 
+[cbcf]: https://arxiv.org/abs/2007.09845
 [endo]: https://www.nature.com/articles/s41598-019-51853-y
 [UQ paper]: https://arxiv.org/abs/1909.05428
 [obs-studies-journal]: https://obsstudies.org/277-2/
@@ -59,3 +64,4 @@ title: Papers
 [PNAS thyroid]: https://doi.org/10.1073/pnas.1911333116
 [saFABcode]: https://github.com/spencerwoody/safab-code
 [ASTRAL code]: https://github.com/spencerwoody/ghost
+
