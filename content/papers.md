@@ -33,7 +33,8 @@ title: Papers
 - **S. Woody**, C.M. Carvalho and J.S. Murray. "Model interpretation
   through lower-dimensional posterior summarization." _Journal of
   Computational and Graphical Statistics_. 2020 (to appear).  [[arXiv
-  preprint][model projections]] [[code][ASTRAL code]].
+  preprint][model projections]] [[journal][jcgs2020-07]]
+  [[code][ASTRAL code]].
 
 - C.L. Feider, **S. Woody**, S. Ledet, J. Zhang, K. Sebastian,
   M.T. Breen, and L.S. Eberlin.  "Molecular Imaging of Endometriosis
@@ -52,7 +53,8 @@ title: Papers
   Studies: Results from a Data Challenge." *Observational
   Studies*. 2019. [[journal][obs-studies-journal]] [[arXiv
   preprint][obs-studies-arXiv]]. 
-
+  
+[jcgs2020-07]: https://doi.org/10.1080/10618600.2020.1796684
 [cbcf]: https://arxiv.org/abs/2007.09845
 [endo]: https://www.nature.com/articles/s41598-019-51853-y
 [UQ paper]: https://arxiv.org/abs/1909.05428
