@@ -2,7 +2,7 @@
 title: Talks
 ---
 
-- 2020-08-05  
+- 2020-08-06  
 **JSM 2020 (virtual)**  
 [Estimating heterogeneous effects of continuous exposures
 with BART](/files/spencerwoody-jsm.pdf)
