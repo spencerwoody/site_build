@@ -2,6 +2,11 @@
 title: Talks
 ---
 
+- 2020-08-05  
+**JSM 2020 (virtual)**  
+[Estimating heterogeneous effects of continuous exposures
+with BART](/files/spencerwoody-jsm.pdf)
+
 - 2020-04-30  
 **SDS 384 Causal Inference Methodology Final Project, University of
 Texas at Austin**  
