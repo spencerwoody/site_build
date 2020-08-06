@@ -2,8 +2,14 @@
 title: Talks
 ---
 
+- 2020-08-07  
+**Dissertation defense, University of Texas at Austin**  
+[Bayesian approaches for inference after selection and model
+fitting](/files/spencerwoody-defense.pdf)
+
+
 - 2020-08-06  
-**JSM 2020 (virtual)**  
+**JSM 2020 (virtual)** and **SBIES 2020 (virtual)**  
 [Estimating heterogeneous effects of continuous exposures
 with BART](/files/spencerwoody-jsm.pdf)
 
