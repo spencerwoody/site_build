@@ -6,40 +6,47 @@ title: Home
 style="max-width:35%;min-width:100px;float:center;" alt="Github repo"
 hspace="10" />](https://spencerwoody.github.io)
 
-<center> <h1>Spencer Woody</h1> </center>
+<center> <h1>Spencer Woody, PhD</h1> </center>
 
-<center> <h2>Statistics PhD Candidate</h2> </center>
+<center> <h2>Postdoctoral Fellow</h2> </center>
 
 <center> <h2>University of Texas at Austin</h2> </center>
 
 <!-- <center> <h2>`spencer.woody@utexas.edu`</h2> </center> -->
 
 
-### COVID-19 
+<!-- ### COVID-19  -->
 
-I am currently working on a COVID-19 mortality forecast, along with
-Professor Lauren Meyers and the rest of the [UT-Austin COVID-19
-Modeling Consortium][consortium].
+<!-- I am currently working on a COVID-19 mortality forecast, along with -->
+<!-- Professor Lauren Meyers and the rest of the [UT-Austin COVID-19 -->
+<!-- Modeling Consortium][consortium]. -->
 
-- [Mortality forecast for US, 50 US states + DC, and metropolitan
-  areas][covid-19 forecast] (updated daily as new data come in)
-- [Current and past][covid-19-github] versions of our forecasts in
-  .CSV format
-- [Latest version][latest-covid-19] and [preprint
-  version][preprint-covid-19] of the technical report for our model
+<!-- - [Mortality forecast for US, 50 US states + DC, and metropolitan -->
+<!--   areas][covid-19 forecast] (updated daily as new data come in) -->
+<!-- - [Current and past][covid-19-github] versions of our forecasts in -->
+<!--   .CSV format -->
+<!-- - [Latest version][latest-covid-19] and [preprint -->
+<!--   version][preprint-covid-19] of the technical report for our model -->
 
-### About me
+<!-- ### About me -->
 
-I am a fourth-year PhD candidate in statistics at the University of
-Texas at Austin, within the [Department of Statistics and Data
-Sciences][sds].  I am co-supervised by Professors [James Scott][james]
-and [Jared Murray][jared], and work as a research assistant for
-Professor [Lauren Meyers][lauren] in the Department of Integrative
-Biology.  Previous I was an RA for Professor [Carlos
-Carvahlo][carlos].  <!-- My main research interests are --> <!-- in
-causal inference, treatment modification, posterior model --> <!--
-interpretation, and post-selection inference as applied to multiple
---> <!-- testing. -->
+I am a postdoctoral fellow working with [Professor Lauren Ancel
+Meyers][lauren] within the Department of Integrative Biology at the
+University of Texas at Austin.  I earned my PhD in statistics at UT in
+summer 2020 co-supervised by Professors [James Scott][james] and
+[Jared Murray][jared].  I also worked as a research assistant for
+Professor [Carlos Carvahlo][carlos].
+
+<!-- I am a fourth-year PhD candidate in statistics at the University of -->
+<!-- Texas at Austin, within the [Department of Statistics and Data -->
+<!-- Sciences][sds].  I am co-supervised by Professors [James Scott][james] -->
+<!-- and [Jared Murray][jared], and work as a research assistant for -->
+<!-- Professor [Lauren Meyers][lauren] in the Department of Integrative -->
+<!-- Biology.  Previous I was an RA for Professor [Carlos -->
+<!-- Carvahlo][carlos]. -->  
+<!-- My main research interests are --> <!-- in causal inference,
+treatment modification, posterior model --> <!-- interpretation, and
+post-selection inference as applied to multiple --> <!-- testing. -->
 
 From 2017 to 2018 I worked as a statistician in the laboratory of
 Dr. Livia Eberlin at the UT Department of Chemisty. The [Eberlin
